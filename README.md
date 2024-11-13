@@ -6,12 +6,15 @@ I tried my best to make it as user friendly as possible, you can look below for 
 ## How to use?
 
 Firstly install Gemini-API (only one time)
-'pip install google-cloud-aiplatform'
-'pip install -q -U google-generativeai'
+`pip install google-cloud-aiplatform`
+`pip install -q -U google-generativeai`
 
 Just paste your KEY in api_key.txt. That's it!
 
 Once you have done that, you can use the script at any time (as long as your KEY is working).
+
+Gemini is a product of Google.
+This project is designed as a training tool for using the Gemini API. I do not own any rights.
 
 ### AI EXPLANATION OF CODE
 
