@@ -3,6 +3,7 @@ A very simple script to use Gemini API with python.
 
 I tried my best to make it as user friendly as possible, you can look below for detailed explanations of the code or other information, but if you just want to use it, you don't need to tinker much...
 
+# Don't get lost in this crowd, I'm here!
 ## How to use?
 
 Firstly install Gemini-API (only one time)
