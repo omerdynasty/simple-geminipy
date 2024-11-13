@@ -10,7 +10,7 @@ Firstly install Gemini-API (only one time)
 `pip install google-cloud-aiplatform`
 `pip install -q -U google-generativeai`
 
-Just paste your KEY in api_key.txt. That's it!
+Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it!
 
 Once you have done that, you can use the script at any time (as long as your KEY is working).
 
