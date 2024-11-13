@@ -13,10 +13,12 @@ Just paste your KEY in api_key.txt. That's it!
 
 Once you have done that, you can use the script at any time (as long as your KEY is working).
 
+## What is Gemini?
+
 Gemini is a product of Google.
 This project is designed as a training tool for using the Gemini API. I do not own any rights.
 
-### AI EXPLANATION OF CODE
+## AI EXPLANATION OF CODE
 
 1. **Import Necessary Libraries:** Imports modules for various tasks, including file operations, text manipulation, regular expressions, and interaction with the Google Generative AI API.
 2. **Read API Key:** Reads the API key from a file named 'api_key.txt' which is required to authenticate with the Google AI service.
