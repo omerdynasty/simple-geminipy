@@ -9,8 +9,18 @@ Elbette, bu kodun ne yaptığını kısaca İngilizce olarak açıklayabilirim:
 
 This Python code interacts with Google's Generative AI to provide text-based responses to user queries. Here's a breakdown of its primary functions:
 
-- AI EXPLANATION -
-- 
+## How to use?
+
+Firstly install Gemini-API (only one time)
+'pip install google-cloud-aiplatform'
+'pip install -q -U google-generativeai'
+
+Just paste your KEY in api_key.txt. That's it!
+
+Once you have done that, you can use the script at any time (as long as your KEY is working).
+
+### AI EXPLANATION OF CODE
+
 1. **Import Necessary Libraries:** Imports modules for various tasks, including file operations, text manipulation, regular expressions, and interaction with the Google Generative AI API.
 2. **Read API Key:** Reads the API key from a file named 'api_key.txt' which is required to authenticate with the Google AI service.
 3. **Configure API:** Sets up the Google Generative AI environment using the obtained API key.
@@ -21,14 +31,4 @@ This Python code interacts with Google's Generative AI to provide text-based res
 8. **Print Response:** Prints the final, cleaned-up response from the model.
 
 **In essence, this code acts as a simple chatbot, using Google's AI to generate text responses based on user prompts.** 
-
-**Would you like me to explain any specific part of the code in more detail?** 
-
-For instance, I can provide a more in-depth explanation of:
-
-* How the API key is used to authenticate with the Google AI service.
-* The purpose of the `to_markdown` function and why it's not used in this specific example.
-* What regular expressions are and how `re.sub` is used to remove Markdown formatting.
-
-Just let me know!
 
