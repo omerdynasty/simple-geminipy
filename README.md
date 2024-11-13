@@ -3,12 +3,6 @@ A very simple script to use Gemini API with python.
 
 I tried my best to make it as user friendly as possible, you can look below for detailed explanations of the code or other information, but if you just want to use it, you don't need to tinker much...
 
-Elbette, bu kodun ne yaptığını kısaca İngilizce olarak açıklayabilirim:
-
-**English Explanation:**
-
-This Python code interacts with Google's Generative AI to provide text-based responses to user queries. Here's a breakdown of its primary functions:
-
 ## How to use?
 
 Firstly install Gemini-API (only one time)
