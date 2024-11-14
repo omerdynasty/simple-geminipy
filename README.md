@@ -5,7 +5,7 @@ A very simple script to use Gemini API with python.
 I tried my best to make it as user friendly as possible, you can look below for detailed explanations of the code or other information, but if you just want to use it, you don't need to tinker much...
 
 
-# Don't get lost in this crowd, I'm here!/How to use?
+# How to use? 📖
 
 Firstly install Gemini-API (only one time)
 
@@ -16,7 +16,7 @@ Python
 
 Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it!
 
-### After that, you might get confused, so dive in if you're curious!
+# Developer Things 😋
 
 Once you have done that, you can use the script at any time (as long as your KEY is working).
 You can just use Gemini-API.py but if you don't know how to, just use start.bat :)
