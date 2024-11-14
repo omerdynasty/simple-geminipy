@@ -43,6 +43,11 @@ if not GOOGLE_API_KEY:
 Gemini is a product of Google.
 This project is designed as a training tool for using the Gemini API. I do not own any rights.
 
+# How can I trust it?
+[VirusTotal](https://www.virustotal.com/gui/file/901e059284795b4ab6b3b058e4e06d9479f76ef82d68fb1207a0a9c6a0798781/detection)
+
+# What does this code do? 🤨
+
 ## AI EXPLANATION OF CODE 1.0
 
 1. **Import Necessary Libraries:** Imports modules for various tasks, including file operations, text manipulation, regular expressions, and interaction with the Google Generative AI API.
