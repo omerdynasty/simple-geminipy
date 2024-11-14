@@ -9,8 +9,13 @@ I tried my best to make it as user friendly as possible, you can look below for 
 
 ### Necessary things <br>
 Python <br>
-```pip install google-cloud-aiplatform``` <br>
-```pip install -q -U google-generativeai``` <br>
+```
+pip install google-cloud-aiplatform
+```
+
+```
+pip install -q -U google-generativeai
+```
 
 Get a [key.](https://aistudio.google.com/app/apikey) <br> Then open writekey.bat, paste your key, press enter. That's it! <br>
 Note: 1.1 version doesn't remove markdown, I will add soon.
