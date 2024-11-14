@@ -12,8 +12,8 @@ Python <br>
 `pip install google-cloud-aiplatform` <br>
 `pip install -q -U google-generativeai` <br>
 
-Get a [key](https://aistudio.google.com/app/apikey) <br> Then open writekey.bat, paste your key,press enter. That's it!
-Note: 1.1 version doesn't remove markdown. I will add soon.
+Get a [key](https://aistudio.google.com/app/apikey) <br> Then open writekey.bat, paste your key, press enter. That's it!
+Note: 1.1 version doesn't remove markdown. <br> I will add soon.
 
 # Developer Things 😋
 
