@@ -1,4 +1,4 @@
-![Google_Gemini_logo svg](https://github.com/user-attachments/assets/2796fdbb-45e2-41a7-84b9-472e28503c98)
+# Gemini (with Python)
 
 A very simple script to use Gemini API with python.
 
@@ -8,16 +8,23 @@ I tried my best to make it as user friendly as possible, you can look below for 
 # Don't get lost in this crowd, I'm here!/How to use?
 
 Firstly install Gemini-API (only one time)
+
+Necessary things
+Python
 `pip install google-cloud-aiplatform`
 `pip install -q -U google-generativeai`
 
 Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it!
 
+### After that, you might get confused, so dive in if you're curious!
+
 Once you have done that, you can use the script at any time (as long as your KEY is working).
 You can just use Gemini-API.py but if you don't know how to, just use start.bat :)
-Don't forget to install python.
 
-### Use 1.1 for chating, 1.0 can't remember anything you say.
+Note: I used Python 3.12.4 to do everything, but I don't think it will be a problem with other versions.
+
+### I realize I've overcomplicated things a bit, so here is version 1.1 in its simplicity.
+(If you want to see the chaos I made while tinkering with the API, you can dig through the <1.0 folder, I may have tried some unrelated things until Google AI Studio enlightened me on how to keep a conversation going 🥲)
 
 ## What is Gemini?
 
