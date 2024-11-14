@@ -1,29 +1,35 @@
-## Simple Gemini-PY
+# Gemini (with Python)
+
 A very simple script to use Gemini API with python.
 
 I tried my best to make it as user friendly as possible, you can look below for detailed explanations of the code or other information, but if you just want to use it, you don't need to tinker much...
 
 
-# Don't get lost in this crowd, I'm here!/How to use?
+# How to use? 📖
 
-Firstly install Gemini-API (only one time)
-`pip install google-cloud-aiplatform`
-`pip install -q -U google-generativeai`
+### Necessary things <br>
+Python <br>
+`pip install google-cloud-aiplatform` <br>
+`pip install -q -U google-generativeai` <br>
 
-Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it!
+Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it! <br>
+Note: 1.1 version doesn't remove markdown. I will add soon.
 
-Once you have done that, you can use the script at any time (as long as your KEY is working).
-You can just use Gemini-API.py but if you don't know how to, just use start.bat :)
-Don't forget to install python.
+# Developer Things 😋
 
-### Use 1.1 for chating, 1.0 can't remember anything you say.
+Note: I used Python 3.12.4 to do everything, but I don't think it will be a problem with other versions.
+
+[API DOCS/Quick Start](https://ai.google.dev/gemini-api/docs/quickstart?hl=en&lang=python) <br>
+[API DOCS/Get Started](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&hl=en) <br>
+[AI STUDIO](https://aistudio.google.com/prompts/new_chat) <br>
+[API LIMITS](https://aistudio.google.com/plan_information) <br>
 
 ## What is Gemini?
 
 Gemini is a product of Google.
 This project is designed as a training tool for using the Gemini API. I do not own any rights.
 
-## AI EXPLANATION OF CODE
+## AI EXPLANATION OF CODE 1.0
 
 1. **Import Necessary Libraries:** Imports modules for various tasks, including file operations, text manipulation, regular expressions, and interaction with the Google Generative AI API.
 2. **Read API Key:** Reads the API key from a file named 'api_key.txt' which is required to authenticate with the Google AI service.
