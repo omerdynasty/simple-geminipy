@@ -9,7 +9,7 @@ I tried my best to make it as user friendly as possible, you can look below for 
 
 Firstly install Gemini-API (only one time)
 
-Necessary things <br>
+### Necessary things <br>
 Python <br>
 `pip install google-cloud-aiplatform` <br>
 `pip install -q -U google-generativeai` <br>
