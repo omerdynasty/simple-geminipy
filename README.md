@@ -24,7 +24,17 @@ Note: I used Python 3.12.4 to do everything, but I don't think it will be a prob
 [AI STUDIO](https://aistudio.google.com/prompts/new_chat) <br>
 [API LIMITS](https://aistudio.google.com/plan_information) <br>
 
-Obviously I wanted to keep it simple, but I was trying hard not to build a cryptosystem or at least not to use environment variables (man, it's 2024, you're storing an API KEY in plaintext!) so take a look at what I said.
+Obviously I wanted to keep it simple, but I was trying hard not to build a cryptosystem or at least not to use environment variables (man, it's 2024, you're storing an API KEY in plaintext!) so take a look at what I said. <br>
+
+An example: <br>
+```
+GOOGLE_API_KEY = os.environ.get('GEMINI_API_KEY')
+
+# API anahtarı yoksa hata mesajı göster ve çık
+if not GOOGLE_API_KEY:
+  print("Hata: Ortam değişkeninde GEMINI_API_KEY bulunamadı.")
+  exit(1)
+```
 
 ## What is Gemini?
 
