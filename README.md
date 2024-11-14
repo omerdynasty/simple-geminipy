@@ -7,14 +7,13 @@ I tried my best to make it as user friendly as possible, you can look below for 
 
 # How to use? 📖
 
-Firstly install Gemini-API (only one time)
-
 ### Necessary things <br>
 Python <br>
 `pip install google-cloud-aiplatform` <br>
 `pip install -q -U google-generativeai` <br>
 
 Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it!
+Note: 1.1 version doesn't removes markdown. I will add soon.
 
 # Developer Things 😋
 
@@ -30,7 +29,7 @@ Note: I used Python 3.12.4 to do everything, but I don't think it will be a prob
 Gemini is a product of Google.
 This project is designed as a training tool for using the Gemini API. I do not own any rights.
 
-## AI EXPLANATION OF CODE
+## AI EXPLANATION OF CODE 1.0
 
 1. **Import Necessary Libraries:** Imports modules for various tasks, including file operations, text manipulation, regular expressions, and interaction with the Google Generative AI API.
 2. **Read API Key:** Reads the API key from a file named 'api_key.txt' which is required to authenticate with the Google AI service.
