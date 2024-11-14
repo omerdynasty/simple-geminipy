@@ -9,8 +9,8 @@ I tried my best to make it as user friendly as possible, you can look below for 
 
 ### Necessary things <br>
 Python <br>
-`pip install google-cloud-aiplatform` <br>
-`pip install -q -U google-generativeai` <br>
+```pip install google-cloud-aiplatform``` <br>
+```pip install -q -U google-generativeai``` <br>
 
 Get a [key.](https://aistudio.google.com/app/apikey) <br> Then open writekey.bat, paste your key, press enter. That's it! <br>
 Note: 1.1 version doesn't remove markdown, I will add soon.
@@ -30,9 +30,8 @@ An example: <br>
 ```
 GOOGLE_API_KEY = os.environ.get('GEMINI_API_KEY')
 
-# API anahtarı yoksa hata mesajı göster ve çık
 if not GOOGLE_API_KEY:
-  print("Hata: Ortam değişkeninde GEMINI_API_KEY bulunamadı.")
+  print("Error: API KEY not found in environment variable.")
   exit(1)
 ```
 
