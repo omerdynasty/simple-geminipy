@@ -24,7 +24,6 @@ You can just use Gemini-API.py but if you don't know how to, just use start.bat 
 Note: I used Python 3.12.4 to do everything, but I don't think it will be a problem with other versions.
 
 ### I realize I've overcomplicated things a bit, so here is version 1.1 in its simplicity.
-(If you want to see the chaos I made while tinkering with the API, you can dig through the <1.0 folder, I may have tried some unrelated things until Google AI Studio enlightened me on how to keep a conversation going 🥲)
 
 ## What is Gemini?
 
