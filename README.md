@@ -1,4 +1,5 @@
-## Simple Gemini-PY
+![Google_Gemini_logo svg](https://github.com/user-attachments/assets/2796fdbb-45e2-41a7-84b9-472e28503c98)
+
 A very simple script to use Gemini API with python.
 
 I tried my best to make it as user friendly as possible, you can look below for detailed explanations of the code or other information, but if you just want to use it, you don't need to tinker much...
