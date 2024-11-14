@@ -25,5 +25,5 @@ chat_session = model.start_chat(
 )
 
 while 1 == 1:
-    response = chat_session.send_message("You: " + str(input()))
+    response = chat_session.send_message(str(input("You: ")))
     print("Gemini 1.5 (Flash): " + str(response.text))
