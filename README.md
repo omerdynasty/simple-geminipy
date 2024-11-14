@@ -13,7 +13,7 @@ Python <br>
 `pip install -q -U google-generativeai` <br>
 
 Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. That's it! <br>
-Note: 1.1 version doesn't removes markdown. I will add soon.
+Note: 1.1 version doesn't remove markdown. I will add soon.
 
 # Developer Things 😋
 
