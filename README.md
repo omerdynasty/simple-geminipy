@@ -16,8 +16,7 @@ Once you have done that, you can use the script at any time (as long as your KEY
 You can just use Gemini-API.py but if you don't know how to, just use start.bat :)
 Don't forget to install python.
 
-### Missing Feature: You cannot have a continuous conversation at this time. It forgets what it says. 
-### So?: You can find the solution on the internet, or you can wait for me to add it, but I'm too lazy for that :p
+### Use 1.1 for chating, 1.0 can't remember anything you say.
 
 ## What is Gemini?
 
