@@ -18,12 +18,10 @@ Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. Th
 
 # Developer Things 😋
 
-Once you have done that, you can use the script at any time (as long as your KEY is working).
-You can just use Gemini-API.py but if you don't know how to, just use start.bat :)
-
 Note: I used Python 3.12.4 to do everything, but I don't think it will be a problem with other versions.
 
-### I realize I've overcomplicated things a bit, so here is version 1.1 in its simplicity.
+https://ai.google.dev/gemini-api/docs/quickstart?hl=en&lang=python
+https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&hl=en
 
 ## What is Gemini?
 
