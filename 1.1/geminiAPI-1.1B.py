@@ -25,7 +25,5 @@ chat_session = model.start_chat(
 )
 
 while 1 == 1:
-    print("It may take a while to receive a response, please wait.")
     response = chat_session.send_message(str(input("You: ")))
-    os.system('cls')
     print("Gemini: " + str(response.text))
