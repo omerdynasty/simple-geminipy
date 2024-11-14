@@ -8,11 +8,9 @@ I tried my best to make it as user friendly as possible, you can look below for 
 # How to use? 📖
 
 ### Necessary things <br>
-Python <br>
 ```
 pip install google-cloud-aiplatform
 ```
-
 ```
 pip install -q -U google-generativeai
 ```
