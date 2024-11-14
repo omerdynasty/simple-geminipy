@@ -20,10 +20,10 @@ Just paste your [KEY](https://aistudio.google.com/app/apikey) in api_key.txt. Th
 
 Note: I used Python 3.12.4 to do everything, but I don't think it will be a problem with other versions.
 
-[API DOCS/Quick Start](https://ai.google.dev/gemini-api/docs/quickstart?hl=en&lang=python)
-[API DOCS/Get Started](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&hl=en)
-[AI STUDIO](https://aistudio.google.com/prompts/new_chat)
-[API LIMITS](https://aistudio.google.com/plan_information)
+[API DOCS/Quick Start](https://ai.google.dev/gemini-api/docs/quickstart?hl=en&lang=python) <br>
+[API DOCS/Get Started](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=python&hl=en) <br>
+[AI STUDIO](https://aistudio.google.com/prompts/new_chat) <br>
+[API LIMITS](https://aistudio.google.com/plan_information) <br>
 
 ## What is Gemini?
 
