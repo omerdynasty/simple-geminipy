@@ -6,9 +6,32 @@ A very simple script to use the Gemini API with Python. Designed to be user-frie
 
 ## Before Starting ⚠
 
-*Version 1.1* was developed to be more **user friendly**, if you just want to use Gemini with python (or in the console interface) you can use the bat scripts I wrote. Version 1.1B is a simpler version for those who are curious about the code, you can import it into your own projects. *Version 1.0* is a version written with less concern for Google documentation and the bat script is very simple, **not recommended for use**, but if you want to tinker with it, why not!
+*Version 1.1* was developed to be more **user friendly**, if you just want to use Gemini with python (or in the console interface) you can use the bat scripts I wrote. *Version 1.1B* is a simpler version for those who are curious about the code, you can import it into your own projects. *Version 1.0* is a version written with less concern for Google documentation and the bat script is very simple, **not recommended for use**, but if you want to tinker with it, why not
 
-## How to Use 📖
+# ❗ This section is for those more unfamiliar with computers, see below for better explanations.
+
+## How to Use 📖 (USER FRIENDLY)
+
+### 1. Install Required Libraries
+
+Run the following commands to install the necessary libraries:
+```bash
+pip install google-cloud-aiplatform
+pip install -q -U google-generativeai
+```
+
+### 2. Get Your API Key
+
+1. Obtain your API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. With 1.1, use the bat script (writekey.bat) to write the API KEY to the file.
+
+### 3. Run the Script
+
+Just run the bat script (start.bat).
+
+---
+
+## How to Use 📚
 
 ### 1. Install Required Libraries
 
