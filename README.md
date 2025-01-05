@@ -4,6 +4,10 @@ A very simple script to use the Gemini API with Python. Designed to be user-frie
 
 ---
 
+## Before Starting ⚠
+
+*Version 1.1* was developed to be more **user friendly**, if you just want to use Gemini with python (or in the console interface) you can use the bat scripts I wrote. Version 1.1B is a simpler version for those who are curious about the code, you can import it into your own projects. *Version 1.0* is a version written with less concern for Google documentation and the bat script is very simple, **not recommended for use**, but if you want to tinker with it, why not!
+
 ## How to Use 📖
 
 ### 1. Install Required Libraries
